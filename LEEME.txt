@@ -1,0 +1,19 @@
+Este proyecto fue realizado junto con un video:
+
+🐘 Aprende Laravel en 40 minutos (Versión 10.x)
+https://youtu.be/nAP2GyDTJn8
+
+🚀 Tu primer proyecto con Laravel 10.x (En 45 minutos ⏱️)
+https://youtu.be/Rxz0GwUassM
+
+Hemos aprendido a:
+-Crear un proyecto
+-Dinamica de laravel, cómo es el funcionamiento de laravel
+-Crear controladores
+-Crear y conectar
+-Crear y ejecutar las migraciones
+
+FUNCIONALIDADES DEL CRUD
+-Create
+-Update
+-Delete
